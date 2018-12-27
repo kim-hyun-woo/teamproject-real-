@@ -2,7 +2,7 @@ package Example;
 
 public class project {
 public project() {
-  System.out.println("Yellow world");
+  System.out.println("Yellow world!");
 
 }
 }
